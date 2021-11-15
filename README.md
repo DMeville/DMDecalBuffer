@@ -1,6 +1,6 @@
 
 # WHAT
-![gif](https://github.com/DMeville/RefractedTransparentRenderPass/blob/main/Example.gif)
+![gif](https://github.com/DMeville/DMDecalBuffer/blob/main/DMDecalBufferExample.gif)
 
 Custom pass to render decals to an offscreen buffer, to then use this data in shaders. For things like wetness decals but can be used for many other things!
 # WHY
